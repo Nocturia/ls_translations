@@ -6,18 +6,21 @@
             <French>Activer le camouflage actif</French>
             <Polish>Aktywuj kamuflaż optyczny</Polish>
             <Russian>Активировать 'Активный камуфляж'</Russian>
+            <German>Aktiviere aktive Tarnung</German>
         </Key>
         <Key ID="STR_ls_activeCamo_coefficient">
             <English>Camouflage Coefficient</English>
             <French>Coefficient de camouflage</French>
             <Polish>Wspólczynnik kamuflażu</Polish>
             <Russian>Коэффициент камуфляжа</Russian>
+            <German>Tarnungs-Koeffizient</German>
         </Key>
         <Key ID="STR_ls_activeCamo_deactivate">
             <English>Deactivate Active Camo</English>
             <French>Désactiver le camouflage actif</French>
             <Polish>Dezaktywuj kamuflaż optyczny</Polish>
             <Russian>Деактивировать 'Активный камуфляж'</Russian>
+            <German>Deaktiviere aktive Tarnung</German>
         </Key>
     </Package>
 </Project>
