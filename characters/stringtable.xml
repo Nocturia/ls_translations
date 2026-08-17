@@ -46,12 +46,14 @@
             <French>Gilet tactique (brun)</French>
             <Polish>Kamizelka Przeciwodłamkowa (Brązowa)</Polish>
             <Russian>Флак-джакет (Коричневый)</Russian>
+            <German>Flak Jacke (braun)</German>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_open_vest">
             <English>Flak Jacket (Open)</English>
             <French>Gilet tactique (ouverte)</French>
             <Polish>Kamizelka Przeciwodłamkowa (Otwarta)</Polish>
             <Russian>Флак-джакет (Открытый)</Russian>
+            <German>Flak Jacke (offen)</German>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouchesAlt_brown_vest">
             <English>Flak Jacket (Pouches, Brown, Alt)</English>
@@ -70,18 +72,21 @@
             <French>Gilet tactique (poches, brun)</French>
             <Polish>Kamizelka Przeciwodłamkowa (Ładownice, Brązowa)</Polish>
             <Russian>Флак-джакет (Подсумки, Коричневый)</Russian>
+            <German>Flak Jacke (Taschen, braun)</German>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_pouches_vest">
             <English>Flak Jacket (Pouches)</English>
             <French>Gilet tactique (poches)</French>
             <Polish>Kamizelka Przeciwodłamkowa (Ładownice)</Polish>
             <Russian>Флак-джакет (Подсумки)</Russian>
+            <German>Flak Jacke (Taschen)</German>
         </Key>
         <Key ID="STR_ls_characters_flakJacket_vest">
             <English>Flak Jacket</English>
             <French>Gilet tactique</French>
             <Polish>Kamizelka Przeciwodłamkowa</Polish>
             <Russian>Флак-джакет</Russian>
+            <German>Flak Jacke</German>
         </Key>
         <Key ID="STR_ls_characters_goggles">
             <English>Goggles</English>
@@ -124,12 +129,14 @@
             <French>Parachute dirigeable 'Hawkbat'</French>
             <Polish>Sterowalny spadochron 'Hawkbat'</Polish>
             <Russian>Управляемый парашют 'Hawkbat'</Russian>
+            <German>Steuerbarer Fallschirm 'Hawkbat'</German>
         </Key>
         <Key ID="STR_ls_characters_hawkbat_reserve">
             <English>Steerable 'Hawkbat' Reserve Parachute</English>
             <French>Parachute de réserve dirigeable 'Hawkbat'</French>
             <Polish>Sterowalny spadochron rezerwowy 'Hawkbat'</Polish>
             <Russian>Управляемый запасной парашют 'Hawkbat'</Russian>
+            <German>Steuerbarer Reserve-Fallschirm 'Hawkbat'</German>
         </Key>
         <Key ID="STR_ls_characters_holster_brown_vest">
             <English>Belt and Holster (Brown)</English>
@@ -160,78 +167,91 @@
             <French>Capuche</French>
             <Polish>Kaptur</Polish>
             <Russian>Капюшон</Russian>
+            <German>Kapuze</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel0_helmet">
             <English>Invisible Helmet (Armor Level 0)</English>
             <French>Casque invisible (armure niveau 0)</French>
             <Polish>Niewidzialny Hełm (Poziom Ochrony 0)</Polish>
             <Russian>Шлем невидимка (БР 0)</Russian>
+            <German>Unsichtbarer Helm (Schutzklasse 0)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel0_vest">
             <English>Invisible Vest (Armor Level 0)</English>
             <French>Gilet invisible (armure niveau 0)</French>
             <Polish>Niewidzialna Kamizelka (Poziom Ochrony 0)</Polish>
             <Russian>Бронежилет невидимка (БР 0)</Russian>
+            <German>Unsichtbare Weste (Schutzklasse 0)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel1_helmet">
             <English>Invisible Helmet (Armor Level 1)</English>
             <French>Casque invisible (armure niveau 1)</French>
             <Polish>Niewidzialny Hełm (Poziom Ochrony 1)</Polish>
             <Russian>Шлем невидимка (БР 1)</Russian>
+            <German>Unsichtbarer Helm (Schutzklasse 1)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel1_vest">
             <English>Invisible Vest (Armor Level 1)</English>
             <French>Gilet invisible (armure niveau 1)</French>
             <Polish>Niewidzialna Kamizelka (Poziom Ochrony 1)</Polish>
             <Russian>Бронежилет невидимка (БР 1)</Russian>
+            <German>Unsichtbarer Helm (Schutzklasse 1)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel2_helmet">
             <English>Invisible Helmet (Armor Level 2)</English>
             <French>Casque invisible (armure niveau 2)</French>
             <Polish>Niewidzialny Hełm (Poziom Ochrony 2)</Polish>
             <Russian>Шлем невидимка (БР 2)</Russian>
+            <German>Unsichtbarer Helm (Schitzklasse 2)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel2_vest">
             <English>Invisible Vest (Armor Level 2)</English>
             <French>Gilet invisible (armure niveau 2)</French>
             <Polish>Niewidzialna Kamizelka (Poziom Ochrony 2)</Polish>
             <Russian>Бронежилет невидимка (БР 2)</Russian>
+            <German>Unsichtbare Weste (Schutzklasse 2)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel3_helmet">
             <English>Invisible Helmet (Armor Level 3)</English>
             <French>Casque invisible (armure niveau 3)</French>
             <Polish>Niewidzialny Hełm (Poziom Ochrony 3)</Polish>
             <Russian>Шлем невидимка (БР 3)</Russian>
+            <German>Unsichtbarer Helm (Schutzklasse 3)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel3_vest">
             <English>Invisible Vest (Armor Level 3)</English>
             <French>Gilet invisible (armure niveau 3)</French>
             <Polish>Niewidzialna Kamizelka (Poziom Ochrony 3)</Polish>
             <Russian>Бронежилет невидимка (БР 3)</Russian>
+            <German>Unsichtbare Weste (Schutzklasse 3)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel4_helmet">
             <English>Invisible Helmet (Armor Level 4)</English>
             <French>Casque invisible (armure niveau 4)</French>
             <Polish>Niewidzialny Hełm (Poziom Ochrony 4)</Polish>
             <Russian>Шлем невидимка (БР 4)</Russian>
+            <German>Unsichtbarer Helm (Schutzklasse 4)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel4_vest">
             <English>Invisible Vest (Armor Level 4)</English>
             <French>Gilet invisible (armure niveau 4)</French>
             <Polish>Niewidzialna Kamizelka (Poziom Ochrony 4)</Polish>
             <Russian>Бронежилет невидимка (БР 4)</Russian>
+            <German>Unsichtbare Weste (Schutzklasse 4)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel5_helmet">
             <English>Invisible Helmet (Armor Level 5)</English>
             <French>Casque invisible (armure niveau 5)</French>
             <Polish>Niewidzialny Hełm (Poziom Ochrony 5)</Polish>
             <Russian>Шлем невидимка (БР 5)</Russian>
+            <German>Unsichtbarer Helm (Schutzklasse 5)</German>
         </Key>
         <Key ID="STR_ls_characters_invisible_armorLevel5_vest">
             <English>Invisible Vest (Armor Level 5)</English>
             <French>Gilet invisible (armure niveau 5)</French>
             <Polish>Niewidzialna Kamizelka (Poziom Ochrony 5)</Polish>
             <Russian>Бронежилет невидимка (БР 5)</Russian>
+            <German>Unsichtbare Weste (Schutzklasse 5)</German>
         </Key>
         <Key ID="STR_ls_characters_jockey_goggles_helmet">
             <English>Jockey (Goggles)</English>
@@ -262,18 +282,21 @@
             <French>Casque M1</French>
             <Polish>Hełm M1</Polish>
             <Russian>Каска M1</Russian>
+            <German>Helm M1</German>
         </Key>
         <Key ID="STR_ls_characters_m1_light_helmet">
             <English>M1 Light Helmet</English>
             <French>Casque léger M1</French>
             <Polish>Hełm Lekki M1</Polish>
             <Russian>Облегченная Каска M1</Russian>
+            <German>Helm M1, leicht</German>
         </Key>
         <Key ID="STR_ls_characters_naval_uniform">
             <English>Naval Uniform</English>
             <French>Uniforme de la marine</French>
             <Polish>Mundur Marynarki</Polish>
             <Russian>Флотская униформа</Russian>
+            <German>Marine-Uniform</German>
         </Key>
         <Key ID="STR_ls_characters_pathfinder_brown_rolled_uniform">
             <English>Pathfinder Fatigues (Brown, Rolled)</English>
@@ -328,6 +351,7 @@
             <French>Poncho</French>
             <Polish>Ponczo</Polish>
             <Russian>Пончо</Russian>
+            <German>Poncho</German>
         </Key>
         <Key ID="STR_ls_characters_poncho_partnerBlack">
             <English>Poncho (Partner, Black)</English>
@@ -346,18 +370,21 @@
             <French>Poncho (paix, bleu)</French>
             <Polish>Ponczo (Pokój, Niebieski)</Polish>
             <Russian>Пончо (Мир, Синий)</Russian>
+            <German>Poncho (Frieden, blau)</German>
         </Key>
         <Key ID="STR_ls_characters_poncho_peaceGreen">
             <English>Poncho (Peace, Green)</English>
             <French>Poncho (paix, vert)</French>
             <Polish>Ponczo (Pokój, Zielony)</Polish>
             <Russian>Пончо (Мир, Зеленый)</Russian>
+            <German>Poncho (Frieden, grün)</German>
         </Key>
         <Key ID="STR_ls_characters_poncho_peaceRed">
             <English>Poncho (Peace, Red)</English>
             <French>Poncho (paix, rouge)</French>
             <Polish>Ponczo (Pokój, Czerwony)</Polish>
             <Russian>Пончо (Мир, Красный)</Russian>
+            <German>Poncho (Frieden, rot)</German>
         </Key>
         <Key ID="STR_ls_characters_poncho_sidestripeBlue">
             <English>Poncho (Sidestripe, Blue)</English>
@@ -399,30 +426,35 @@
             <French>Écharpe</French>
             <Polish>Szal</Polish>
             <Russian>Шарф</Russian>
+            <German>Schal</German>
         </Key>
         <Key ID="STR_ls_characters_scarf_blue">
             <English>Scarf (Blue)</English>
             <French>Écharpe (bleue)</French>
             <Polish>Szal (Niebieski)</Polish>
             <Russian>Шарф (Синий)</Russian>
+            <German>Schal (blau)</German>
         </Key>
         <Key ID="STR_ls_characters_scarf_green">
             <English>Scarf (Green)</English>
             <French>Écharpe (verte)</French>
             <Polish>Szal (Zielony)</Polish>
             <Russian>Шарф (Зеленый)</Russian>
+            <German>Schal (grün)</German>
         </Key>
         <Key ID="STR_ls_characters_scarf_orange">
             <English>Scarf (Orange)</English>
             <French>Écharpe (orange)</French>
             <Polish>Szal (Pomarańczowy)</Polish>
             <Russian>Шарф (Оранжевый)</Russian>
+            <German>Schal (orange)</German>
         </Key>
         <Key ID="STR_ls_characters_scarf_red">
             <English>Scarf (Red)</English>
             <French>Écharpe (rouge)</French>
             <Polish>Szal (Czerwony)</Polish>
             <Russian>Шарф (Красный)</Russian>
+            <German>Schal (rot)</German>
         </Key>
         <Key ID="STR_ls_characters_scarf_stewart">
             <English>Scarf (Stewart)</English>
@@ -435,6 +467,7 @@
             <French>Écharpe (blanche)</French>
             <Polish>Szal (Biały)</Polish>
             <Russian>Шарф (Белый)</Russian>
+            <German>Schal (weiß)</German>
         </Key>
         <Key ID="STR_ls_characters_service_brown_helmet">
             <English>Service Helmet (Brown)</English>
