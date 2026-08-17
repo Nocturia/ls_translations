@@ -6,6 +6,7 @@
             <French>Pas de voix</French>
             <Polish>Brak Głosu</Polish>
             <Russian>Без голоса</Russian>
+            <German>Keine Sprache</German>
         </Key>
     </Package>
 </Project>
